@@ -2,14 +2,21 @@
   "name": "hw_09.v01",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://zmei55.github.io/goit-js-hw-09v01/",
+  "homepage": "https://zmei55.github.io/goit-js-hw-09v01",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /goit-js-hw-09v01/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmei55/goit-js-hw-09v01.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Andrei",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zmei55/goit-js-hw-09v01"
+  },
   "devDependencies": {
     "parcel": "^2.6.1"
   }
