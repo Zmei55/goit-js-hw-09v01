@@ -5,7 +5,7 @@
   "homepage": "https://zmei55.github.io/goit-js-hw-09v01/",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build /goit-js-hw-09v01/"
+    "build": "parcel build --public-url /goit-js-hw-09v01/"
   },
   "keywords": [],
   "author": "",
